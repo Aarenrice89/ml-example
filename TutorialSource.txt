@@ -1,0 +1,3 @@
+https://pythonprogramming.net/regression-introduction-machine-learning-tutorial/
+
+https://pythonprogramming.net/pickling-scaling-machine-learning-tutorial/?completed=/forecasting-predicting-machine-learning-tutorial/
